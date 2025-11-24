@@ -1,5 +1,7 @@
 # CCRM - College Course Registration Management System
 
+made by Dashkrat Srivastava [24BCE11239]
+
 ## Project Overview
 
 CCRM is a comprehensive Java-based College Course Registration Management System that provides functionality for managing students, courses, enrollments, and academic transcripts. The system demonstrates advanced Java programming concepts including object-oriented design, exception handling, file I/O operations, and stream processing.
